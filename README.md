@@ -1,4 +1,5 @@
 # MYTOAST 
+[![](https://jitpack.io/v/mustafayigitt/MYCustomToastMessage.svg)](https://jitpack.io/#mustafayigitt/MYCustomToastMessage)
 
 This is custom toast app. You can 
   - Set Toast Type
@@ -7,7 +8,15 @@ This is custom toast app. You can
 
 ### Installation
 
--Clone or download project your pc
+-  Add the JitPack repository to your build file(Project Level)
+  ```
+  maven { url 'https://jitpack.io' }
+  ```
+-  Add the dependency(Module Level) 
+  ```
+  implementation 'com.github.mustafayigitt:MYCustomToastMessage:1.0.0'
+  ```
+  And that's all
 
 ### Parameters
  * Type:
