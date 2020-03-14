@@ -27,23 +27,21 @@ This is custom toast app. You can
 
 ### Using
 
-![ss_using](https://github.com/mustafayigitt/MYCustomToastMessage/blob/master/main.png)
-
+![ss_using](/screenshots/main.png)
 
 ### ScreenShots
+
 * Info Type and Bottom Gravity
-![ss_info](https://github.com/mustafayigitt/MYCustomToastMessage/blob/master/Screenshot_1583969050.png)
+![ss_info](/screenshots/Screenshot_1583969050.png)
 
 * Success Type and Top Gravity
-![ss_success](https://github.com/mustafayigitt/MYCustomToastMessage/blob/master/Screenshot_1583969052.png)
+![ss_success](/screenshots/Screenshot_1583969052.png)
 
 * Warning Type and Center Gravtiy
-![ss_warning](https://github.com/mustafayigitt/MYCustomToastMessage/blob/master/Screenshot_1583969054.png)
+![ss_warning](/screenshots/Screenshot_1583969054.png)
 
 * Error Type and Default Gravity
-![ss_error](https://github.com/mustafayigitt/MYCustomToastMessage/blob/master/Screenshot_1583969056.png)
-
-
+![ss_error](/screenshots/Screenshot_1583969056.png)
 
 
 License
