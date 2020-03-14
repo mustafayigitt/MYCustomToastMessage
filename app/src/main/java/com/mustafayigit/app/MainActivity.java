@@ -1,4 +1,4 @@
-package com.mustafayigit.mycustomtoastmessage;
+package com.mustafayigit.app;
 
 import android.os.Bundle;
 
@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
         makeSuccessToast();
         makeWarningToast();
         makeErrorToast();
+
     }
 
     public void makeInfoToast() {
